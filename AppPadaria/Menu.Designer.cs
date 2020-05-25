@@ -229,7 +229,7 @@
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(186, 43);
             this.button9.TabIndex = 8;
-            this.button9.Text = "Fornecedor";
+            this.button9.Text = "Produto";
             this.button9.UseVisualStyleBackColor = false;
             // 
             // button10
@@ -247,7 +247,7 @@
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(186, 43);
             this.button10.TabIndex = 9;
-            this.button10.Text = "Fornecedor";
+            this.button10.Text = "Em Produção";
             this.button10.UseVisualStyleBackColor = false;
             // 
             // Menu
