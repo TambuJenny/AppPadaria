@@ -84,7 +84,7 @@
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(186, 117);
+            this.panel2.Size = new System.Drawing.Size(186, 80);
             this.panel2.TabIndex = 0;
             // 
             // button2
@@ -99,7 +99,7 @@
             this.button2.ForeColor = System.Drawing.Color.White;
             this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
             this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button2.Location = new System.Drawing.Point(0, 117);
+            this.button2.Location = new System.Drawing.Point(0, 80);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(186, 43);
             this.button2.TabIndex = 1;
@@ -117,7 +117,7 @@
             this.button3.ForeColor = System.Drawing.Color.White;
             this.button3.Image = ((System.Drawing.Image)(resources.GetObject("button3.Image")));
             this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button3.Location = new System.Drawing.Point(0, 160);
+            this.button3.Location = new System.Drawing.Point(0, 123);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(186, 43);
             this.button3.TabIndex = 2;
@@ -135,7 +135,7 @@
             this.button4.ForeColor = System.Drawing.Color.White;
             this.button4.Image = ((System.Drawing.Image)(resources.GetObject("button4.Image")));
             this.button4.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button4.Location = new System.Drawing.Point(0, 203);
+            this.button4.Location = new System.Drawing.Point(0, 166);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(186, 43);
             this.button4.TabIndex = 3;
@@ -153,7 +153,7 @@
             this.button5.ForeColor = System.Drawing.Color.White;
             this.button5.Image = ((System.Drawing.Image)(resources.GetObject("button5.Image")));
             this.button5.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button5.Location = new System.Drawing.Point(0, 246);
+            this.button5.Location = new System.Drawing.Point(0, 209);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(186, 43);
             this.button5.TabIndex = 4;
@@ -171,7 +171,7 @@
             this.button6.ForeColor = System.Drawing.Color.White;
             this.button6.Image = ((System.Drawing.Image)(resources.GetObject("button6.Image")));
             this.button6.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button6.Location = new System.Drawing.Point(0, 289);
+            this.button6.Location = new System.Drawing.Point(0, 252);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(186, 43);
             this.button6.TabIndex = 5;
@@ -189,7 +189,7 @@
             this.button7.ForeColor = System.Drawing.Color.White;
             this.button7.Image = ((System.Drawing.Image)(resources.GetObject("button7.Image")));
             this.button7.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button7.Location = new System.Drawing.Point(0, 332);
+            this.button7.Location = new System.Drawing.Point(0, 295);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(186, 43);
             this.button7.TabIndex = 6;
@@ -207,7 +207,7 @@
             this.button8.ForeColor = System.Drawing.Color.White;
             this.button8.Image = ((System.Drawing.Image)(resources.GetObject("button8.Image")));
             this.button8.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button8.Location = new System.Drawing.Point(0, 375);
+            this.button8.Location = new System.Drawing.Point(0, 338);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(186, 43);
             this.button8.TabIndex = 7;
@@ -225,7 +225,7 @@
             this.button9.ForeColor = System.Drawing.Color.White;
             this.button9.Image = ((System.Drawing.Image)(resources.GetObject("button9.Image")));
             this.button9.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button9.Location = new System.Drawing.Point(0, 418);
+            this.button9.Location = new System.Drawing.Point(0, 381);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(186, 43);
             this.button9.TabIndex = 8;
@@ -243,7 +243,7 @@
             this.button10.ForeColor = System.Drawing.Color.White;
             this.button10.Image = ((System.Drawing.Image)(resources.GetObject("button10.Image")));
             this.button10.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button10.Location = new System.Drawing.Point(0, 461);
+            this.button10.Location = new System.Drawing.Point(0, 424);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(186, 43);
             this.button10.TabIndex = 9;
