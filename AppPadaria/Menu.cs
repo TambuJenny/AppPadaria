@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using AppPadaria.RH;
 
 namespace AppPadaria
 {
@@ -17,6 +18,15 @@ namespace AppPadaria
             InitializeComponent();
             //APP criado pela a WAT company
             //cheguei com raiva fogo
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Frm_Funcionario funcionario = new Frm_Funcionario() { TopLevel = false, FormBorderStyle = FormBorderStyle.None, Dock = DockStyle.Fill };
+            pnl_princ.Controls.Clear();
+            pnl_princ.Controls.Add(funcionario);
+            funcionario.Show();
+
         }
     }
 }

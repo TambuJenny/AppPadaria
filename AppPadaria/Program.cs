@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using AppPadaria.RH;
 
 namespace AppPadaria
 {
@@ -16,7 +17,7 @@ namespace AppPadaria
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Menu());
+            Application.Run(new Menu ());
         }
     }
 }
