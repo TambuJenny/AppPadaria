@@ -16,5 +16,10 @@ namespace AppPadaria.RH
         {
             InitializeComponent();
         }
+
+        private void Frm_cadastro_Load(object sender, EventArgs e)
+        {
+            //ol
+        }
     }
 }
