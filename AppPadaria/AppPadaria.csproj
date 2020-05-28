@@ -58,6 +58,12 @@
     <Compile Include="RH\Frm_cadastro.Designer.cs">
       <DependentUpon>Frm_cadastro.cs</DependentUpon>
     </Compile>
+    <Compile Include="RH\Frm_cad_turno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RH\Frm_cad_turno.Designer.cs">
+      <DependentUpon>Frm_cad_turno.cs</DependentUpon>
+    </Compile>
     <Compile Include="RH\Frm_Funcionario.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,6 +84,9 @@
     </Compile>
     <EmbeddedResource Include="RH\Frm_cadastro.resx">
       <DependentUpon>Frm_cadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RH\Frm_cad_turno.resx">
+      <DependentUpon>Frm_cad_turno.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="RH\Frm_Funcionario.resx">
       <DependentUpon>Frm_Funcionario.cs</DependentUpon>

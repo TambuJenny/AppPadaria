@@ -184,9 +184,9 @@
             // 
             this.dgv.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgv.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.dgv.Location = new System.Drawing.Point(0, 64);
+            this.dgv.Location = new System.Drawing.Point(0, 72);
             this.dgv.Name = "dgv";
-            this.dgv.Size = new System.Drawing.Size(1157, 520);
+            this.dgv.Size = new System.Drawing.Size(1157, 512);
             this.dgv.TabIndex = 0;
             // 
             // Frm_Funcionario
