@@ -16,5 +16,10 @@ namespace AppPadaria.RH
         {
             InitializeComponent();
         }
+
+        private void Frm_cad_turno_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
