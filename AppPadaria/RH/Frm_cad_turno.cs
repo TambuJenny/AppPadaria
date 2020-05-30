@@ -20,7 +20,12 @@ namespace AppPadaria.RH
         private void Frm_cad_turno_Load(object sender, EventArgs e)
         {
             string nome;
-            //fernando
+            //fernando Wilson tambu
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
